@@ -9,7 +9,7 @@ Data fetched from OpenWeatherMap API.
 
 # Getting Started
 Clone the repository:
-https://github.com/yourusername/weather-app.git
+https://github.com/bunhoutnub/Weather-App.git
 
 # Usage
 Enter a city name in the input field.
