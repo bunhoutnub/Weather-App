@@ -1,5 +1,5 @@
 # Weather-App
-A simple Weather App built using JavaScript and OpenWeatherMap API. This application allows users to check the current weather in any city by entering the city name. It fetches weather data such as temperature, humidity, and wind speed, and displays it in a clean and user-friendly interface.
+A simple Weather App built using JavaScript and OpenWeatherMap API. This application allows users to check real time weather in any city by entering the city name. It fetches weather data such as temperature, humidity, and wind speed, and displays it in a clean and user-friendly interface.
 
 # Features
 Get the current weather of any city.
